@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\prototypeapp\prototypeapp\bin\Debug\prototypeapp.exe.config
+C:\Users\user\source\repos\prototypeapp\prototypeapp\bin\Debug\prototypeapp.exe
+C:\Users\user\source\repos\prototypeapp\prototypeapp\bin\Debug\prototypeapp.pdb
+C:\Users\user\source\repos\prototypeapp\prototypeapp\obj\Debug\prototypeapp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\prototypeapp\prototypeapp\obj\Debug\prototypeapp.Properties.Resources.resources
+C:\Users\user\source\repos\prototypeapp\prototypeapp\obj\Debug\prototypeapp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\prototypeapp\prototypeapp\obj\Debug\prototypeapp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\prototypeapp\prototypeapp\obj\Debug\prototypeapp.exe
+C:\Users\user\source\repos\prototypeapp\prototypeapp\obj\Debug\prototypeapp.pdb
+C:\Users\user\source\repos\prototypeapp\prototypeapp\obj\Debug\prototypeapp.MENU.resources
+C:\Users\user\source\repos\prototypeapp\prototypeapp\obj\Debug\prototypeapp.LOGIN.resources
