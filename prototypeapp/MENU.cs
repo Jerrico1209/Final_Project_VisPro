@@ -19,7 +19,28 @@ namespace prototypeapp
 
         private void button3_Click(object sender, EventArgs e)
         {
+            Poin poin = new Poin();
+            poin.Show();
+            this.Hide();
+        }
 
+        private void BtnSeatting_Click(object sender, EventArgs e)
+        {
+            seatting seattingg = new seatting();
+            seattingg.Show();   
+            this.Hide();    
+        }
+
+        private void BtnHome_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnDaftar_Click(object sender, EventArgs e)
+        {
+            namamahasiswa namamahasiswaa = new namamahasiswa(); 
+            namamahasiswaa.Show();
+            this.Hide();
         }
     }
 }
