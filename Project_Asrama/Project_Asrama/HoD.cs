@@ -53,8 +53,8 @@ namespace Project_Asrama
                         sandi = kolom["password"].ToString();
                         if (sandi == txtPass.Text)
                         {
-                            DBFrm dBFrm = new DBFrm();
-                            dBFrm.Show();
+                            VDBFrm vdbFrm = new VDBFrm();
+                            vdbFrm.Show();
                             this.Hide();
                         }
                         else
